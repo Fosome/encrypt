@@ -1,0 +1,6 @@
+# Binary
+encrypt
+
+# Ignore sample files
+*.txt
+*.enc
